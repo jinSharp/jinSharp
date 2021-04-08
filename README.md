@@ -2,10 +2,10 @@
 
 **I'm a 13 year old programmer who enjoys coding.**
 
-- 🛠️ I'm currently working on [Zero Hours](https://github.com/BDStyles/Zero-Hours).
+- 🛠️ I'm currently working on [Moonray](https://github.com/BDStyles/moonray).
 - ✍️ I'm currently learning **CSS**.
 - 🤝 I'm willing to get help from anyone who has experience and knowledge about **CSS**.
-- 🔮 My future project (s) are: [future-theme (name isn't final)](https://github.com/BDStyles/future-theme).
+- 🔮 My future project (s) are: [Hydrite](https://github.com/BDStyles/hydrite).
 - 📫 You can reach me using the links below or add my discord - `ryonsharp#0525`.
 
 **Links**
