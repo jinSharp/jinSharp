@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ryonnn)
 
-# Komihiro
-Hi there, I'm Ry. I used to program in Lua via Roblox but I sort of took a break and I forgot almost everything related to scripting lmao, so now I just make Discord themes for fun since that's I like doing. Most of my themes are privated/discontinued since I work on **ALOT** of themes (and I never finish them). My main focus rn is Synthcord Frame which is a translucent [Discord](https://discord.com) theme that replaces their ugly colors with a neon background to accurately emulate a Synthwave experience.
+Hi there 👋, I'm Ry. I used to program in Lua via Roblox but I sort of took a break and I forgot almost everything related to scripting lmao, so now I just make Discord themes for fun since that's I like doing. Most of my themes are privated/discontinued since I work on **ALOT** of themes (and I never finish them). My main focus rn is Synthcord Frame which is a translucent [Discord](https://discord.com) theme that replaces their ugly colors with a neon background to accurately emulate a Synthwave experience.
 
 # Projects
 Image | Description
