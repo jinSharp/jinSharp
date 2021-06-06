@@ -3,7 +3,7 @@
 Hi there 👋, I'm Ry. I used to program in Lua via Roblox but I sort of took a break and I forgot almost everything related to scripting lmao, so now I just make themes for fun since thats what I like doing, I'm starting to make styles for specific websites since I have a bit of CSS experience by making Discord themes.
 
 # My GitHub Stats
-![Komihiro's Stats](https://github-readme-stats.vercel.app/api?username=Komihiro&show_icons=true&theme=radical)
+![Pulv's Stats](https://github-readme-stats.vercel.app/api?username=Pulverism&show_icons=true&theme=radical)
 
 # Projects
 Image | Description
