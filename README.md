@@ -1,3 +1,4 @@
+<h1>Rysworldd 🥀</h1>
 <details><summary>Discord Themes</summary>
   <li><a href="https://github.com/rydevelopment/ComfyPink">ComfyPink</a></li>
 </details>
