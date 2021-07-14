@@ -1,5 +1,5 @@
 **who am i?**
-- 🃏 I'm *Velocity* or `vlostcity`.
+- 🃏 I'm `copywheek`.
 - 🎨 Theme developer with 3+ months of experience and Lua programmer.
 
 <details>
