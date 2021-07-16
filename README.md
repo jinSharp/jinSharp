@@ -3,7 +3,7 @@
 - 🎨 Theme developer with 3+ months of experience and Lua programmer.
 
 **what i do**
-- I waste my time by making themes for Discord.
+- I waste my time by making discord themes.
 
 <details>
 <summary><strong>my statistics.</strong></summary>
