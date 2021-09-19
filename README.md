@@ -1,9 +1,3 @@
-<h1 align="center">🌹 Rosenyrox</h1>
-
-<p>I code things and never finish them.</p>
-
--------------------------------------------------------------------------------------------------------
-
 <p align="center">
   <img width="430" height="220" src="https://lanyard-profile-readme.vercel.app/api/556120718669119499">
 </p>
